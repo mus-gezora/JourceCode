@@ -1,0 +1,32 @@
+{
+	"storyName": "joe mama",
+	"difficulties": "Normal, Soretro, Mania",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekBefore": "fridayniteweek1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Irresponsible",
+			"bf",
+			[
+				0,
+				206,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"joe",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Fridaynite Week 1"
+}

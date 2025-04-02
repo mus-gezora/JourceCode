@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "That was so awesome!!!! Ggs",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		},
+		{
+			"expression": "excited",
+			"text": "Gg!",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.2,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.2,
+			"portrait": "joe"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "dia_gf",
+			"speed": 0.2,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well... see ya, Joe! You did some great rapping!",
+			"boxState": "normal",
+			"sound": "dia_gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Bai bai!",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Goodbye BF (and GF) FNF! It was so amzing meeting you!",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "talk",
+			"text": "And so, Boyfriend and Girlfriend parted ways from Joe. Good times were had, but every Week has an End.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "But this would certainly not be their last meeting. No, that won't happen for a while.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "TO BE CONTINUED",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "You may now access freeplay.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		}
+	]
+}

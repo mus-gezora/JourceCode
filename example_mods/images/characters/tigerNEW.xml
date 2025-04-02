@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tiger.png">
+<SubTexture name="idle dance 0000" x="0" y="0" width="1526" height="1055" frameX="-420" frameY="-513" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="idle dance 0001" x="1526" y="0" width="1598" height="864" frameX="-402" frameY="-714" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="idle dance 0002" x="0" y="1055" width="1634" height="836" frameX="-356" frameY="-744" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="idle dance 0003" x="1634" y="1055" width="1452" height="1027" frameX="-548" frameY="-503" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="idle dance 0004" x="0" y="2082" width="1648" height="1066" frameX="-291" frameY="-507" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Left 0000" x="1648" y="2082" width="1600" height="962" frameX="-366" frameY="-635" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Left 0001" x="0" y="3148" width="1589" height="942" frameX="-344" frameY="-682" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Down (he stares) 0000" x="1589" y="3148" width="1243" height="1150" frameX="-586" frameY="-496" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Down (he stares) 0001" x="0" y="4298" width="1275" height="1166" frameX="-570" frameY="-480" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Up 0000" x="1275" y="4298" width="1242" height="1137" frameX="-511" frameY="-501" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Up 0001" x="0" y="5464" width="1266" height="1000" frameX="-504" frameY="-646" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Right 0000" x="1266" y="5464" width="1407" height="901" frameX="-555" frameY="-745" frameWidth="2360" frameHeight="1640" />
+<SubTexture name="Right 0001" x="0" y="6464" width="1472" height="888" frameX="-540" frameY="-758" frameWidth="2360" frameHeight="1640" />
+</TextureAtlas>

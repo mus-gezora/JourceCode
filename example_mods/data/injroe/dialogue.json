@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Boyfriend and Girlfriend are walking in the woods.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bo bop",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "What does that mean, anyway?",
+			"boxState": "normal",
+			"sound": "dia_gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hell if I know lmao",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Holy my gawd...",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "excited",
+			"text": "IS THAT BF FNF?!?!?!??!?!?!?!?",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "OMG BF IM YOUR BIGGEST FAN CAN WE DO A EPIC RAP BATTLE IT WOULD BE REALLY COOL AND AWESOME IF WE DID THAT PRETTY PLEASE CAN WE RAP BATTLE",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.005,
+			"portrait": "joe"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bai",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "YAY",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		}
+	]
+}

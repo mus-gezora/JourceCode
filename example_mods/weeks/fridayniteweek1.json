@@ -1,0 +1,59 @@
+{
+	"storyName": "joe mama",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "house",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"injroe",
+			"joe",
+			[
+				255,
+				93,
+				0
+			]
+		],
+		[
+			"irresponsible",
+			"bf",
+			[
+				0,
+				206,
+				255
+			]
+		],
+		[
+			"imprisonment",
+			"animal",
+			[
+				155,
+				0,
+				0
+			]
+		],
+		[
+			"parole",
+			"joe",
+			[
+				255,
+				93,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fridaynite Week 1",
+	"hiddenUntilUnlocked": false
+}

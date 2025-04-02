@@ -1,0 +1,6 @@
+value1: CharTag/All/CharTag,CharTag2
+value2: DAD/BF
+
+Change Charater Singer
+
+Coded by Drawoon

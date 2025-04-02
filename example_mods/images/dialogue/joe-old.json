@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		220,
+		270
+	],
+	"scale": 3.99999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "down",
+			"idle_name": "down"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "up",
+			"idle_name": "up"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "right",
+			"idle_name": "right"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "left",
+			"idle_name": "left"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "miss",
+			"loop_name": "miss"
+		}
+	],
+	"image": "joe"
+}

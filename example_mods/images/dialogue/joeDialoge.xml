@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joeDialoge.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="angry0000" x="1415" y="915" width="373" height="451" frameX="-180" frameY="-191" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="angry0001" x="1849" y="0" width="357" height="468" frameX="-186" frameY="-174" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="angry0002" x="0" y="1385" width="365" height="455" frameX="-184" frameY="-187" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="shocked0000" x="0" y="482" width="513" height="451" frameX="-93" frameY="-191" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="shocked0001" x="0" y="0" width="491" height="482" frameX="-105" frameY="-160" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="shocked0002" x="491" y="0" width="498" height="472" frameX="-101" frameY="-170" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="talk0000" x="1415" y="464" width="373" height="451" frameX="-180" frameY="-191" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="talk0001" x="1849" y="468" width="357" height="465" frameX="-186" frameY="-177" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="talk0002" x="365" y="1385" width="365" height="455" frameX="-184" frameY="-187" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="stare0000" x="1849" y="933" width="284" height="433" frameX="-189" frameY="-209" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="yay0000" x="0" y="933" width="447" height="452" frameX="-122" frameY="-190" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="yay0001" x="989" y="0" width="426" height="479" frameX="-134" frameY="-163" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="yay0002" x="1415" y="0" width="434" height="464" frameX="-131" frameY="-178" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-230, -470],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-225, -434],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-3, 7],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 3],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"offsets": [28, 167],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [-10, 1],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-7, 4],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-190, -446],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rightMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-190, -442],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "leftMiss",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/joeNew",
+	"position": [-370, -240],
+	"healthicon": "joe",
+	"flip_x": false,
+	"healthbar_colors": [255, 142, 1],
+	"camera_position": [-250, 270],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}

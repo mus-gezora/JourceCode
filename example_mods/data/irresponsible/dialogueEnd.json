@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "LETS FRICKING GOOOOOOO",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		},
+		{
+			"expression": "pissed",
+			"text": "YOU CHEATER!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dia_bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Calm down babe, he's just a kid!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": "dia_gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Babe, I love you, but talking to my player is UNACCEPTABLE!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": "dia_bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes get ma-",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		},
+		{
+			"expression": "confused",
+			"text": "...where did he go? I feel a demonic presence...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.07,
+			"sound": "dia_gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.2,
+			"sound": "dia_gf"
+		},
+		{
+			"expression": "demon",
+			"text": "BF, WHAT DID YOU DO?!?!?",
+			"boxState": "angry",
+			"portrait": "gf",
+			"speed": 0.03,
+			"sound": "dia_gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "GF I DIDN'T DO THAT I SWEAR!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": "dia_bf"
+		}
+	]
+}

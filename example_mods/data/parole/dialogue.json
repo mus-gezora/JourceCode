@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "I LIVE THANK YOU BF FNF",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		},
+		{
+			"expression": "talk",
+			"text": "No problem! I kinda owed it to you since I was so mean earlier.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dia_bf"
+		},
+		{
+			"expression": "confused",
+			"text": "That reminds me, sorry for getting so mad at you.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dia_bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I've never had my player just... stolen from me like that before. I didn't know how to react.",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Its ok I get it",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		},
+		{
+			"expression": "talk",
+			"text": "Also, BF FNF... can we do one more song? Pretty please",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": "dia_bf"
+		},
+		{
+			"expression": "excited",
+			"text": "LETS GO",
+			"boxState": "normal",
+			"portrait": "joe",
+			"speed": 0.05,
+			"sound": "dia_joe"
+		}
+	]
+}

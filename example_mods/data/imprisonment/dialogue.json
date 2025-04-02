@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Where am I?",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe-right"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello, Joe. Let's sing a song.",
+			"boxState": "normal",
+			"sound": "dia_troll",
+			"speed": 0.05,
+			"portrait": "none"
+		},
+		{
+			"expression": "shocked",
+			"text": "Uh oh.",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.25,
+			"portrait": "joe-right"
+		}
+	]
+}

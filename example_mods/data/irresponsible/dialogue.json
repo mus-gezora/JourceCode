@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Gg ez",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "confused",
+			"text": "Kid, you lost.",
+			"boxState": "normal",
+			"sound": "dia_gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "SHUT U- Wait what's that over there *points to the camera*",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "confused",
+			"text": "Dah...",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "stare",
+			"text": "*walks over to the camera* Hey you!",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe-center"
+		},
+		{
+			"expression": "stare",
+			"text": "Yeah, YOU! PLAYER! I'm talking to YOU!",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe-center"
+		},
+		{
+			"expression": "stare",
+			"text": "Wanna help me win the next rap battle?",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe-center"
+		},
+		{
+			"expression": "stare",
+			"text": "No? Well, too bad!",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe-center"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey guys, I'm back!",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "excited",
+			"text": "Ready for song 2?",
+			"boxState": "normal",
+			"sound": "dia_joe",
+			"speed": 0.05,
+			"portrait": "joe"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "dia_bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

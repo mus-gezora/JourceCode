@@ -1,0 +1,9 @@
+{
+	"name": "Vs. Joe",
+	"description": "The funny FNF mod with the deformed orange guy",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [252, 144, 3],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
