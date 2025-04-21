@@ -43,7 +43,7 @@ class CreditsState extends MusicBeatState
 			["Gianna", "gianna", "Co-director, Artist", "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "777777"],
 			["Street Sign", "streetsign", "Co-Director, Composer and Artist", "https://www.youtube.com/@PicklesLiquidandFunk", "777777"],
 			["ThisIsntGood", "ohnaw", "Main Artist and Animator", "https://twitter.com/ThatIsntGreat", "880000"],
-			["artsncrafters", "crafters", "Artist, Animator, Charter and Main Programmer", "https://twitter.com/wikifunkin", "925EAE"],
+			["flakyflakes", "flaky", "Artist, Animator, Charter and Main Programmer", "https://twitter.com/realHTFWiki", "925EAE"],
 			["Ocelot Animates", "ocelot", "Artist and Animator", "https://www.youtube.com/@OcelotAnimatesOfficial", "ffab03"],
 			["superbendygamer", "bendy", "Artist", "https://www.youtube.com/channel/UCdE8fPiuG4hnIwyx_KHCQNg", "9778b0"],
 			[""],
