@@ -28,7 +28,7 @@ local splashText = {'splash text example 1', 'AAAAAAAAAAAAAAAAAAAAA', 'hi chat'}
 -- credits text (or extra space), just follow the template or see for yourself in game how it looks
 -- if you dont want to use this, leave it blank
 -- to do a space, add \n
-local creditStuff = ' > credits:\nMusic by mus_gezora\nChart by mus_gezora\nArt by ThisIsntGood and artsncrafters\nSoretro art by Gianna'
+local creditStuff = ' > credits:\nMusic by mus_gezora\nChart by mus_gezora\nArt by ThisIsntGood and flakyflakes\nSoretro art by Gianna'
 
 ----------------------------------
 ----------------------------------
